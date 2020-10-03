@@ -1,0 +1,11 @@
+F:\Asp.NetCore\05_Asp.NetCore\PartyApp\PartyApp\bin\Debug\netcoreapp2.0\PartyApp.deps.json
+F:\Asp.NetCore\05_Asp.NetCore\PartyApp\PartyApp\bin\Debug\netcoreapp2.0\PartyApp.runtimeconfig.json
+F:\Asp.NetCore\05_Asp.NetCore\PartyApp\PartyApp\bin\Debug\netcoreapp2.0\PartyApp.runtimeconfig.dev.json
+F:\Asp.NetCore\05_Asp.NetCore\PartyApp\PartyApp\bin\Debug\netcoreapp2.0\PartyApp.dll
+F:\Asp.NetCore\05_Asp.NetCore\PartyApp\PartyApp\bin\Debug\netcoreapp2.0\PartyApp.pdb
+F:\Asp.NetCore\05_Asp.NetCore\PartyApp\PartyApp\obj\Debug\netcoreapp2.0\PartyApp.csprojAssemblyReference.cache
+F:\Asp.NetCore\05_Asp.NetCore\PartyApp\PartyApp\obj\Debug\netcoreapp2.0\PartyApp.csproj.CoreCompileInputs.cache
+F:\Asp.NetCore\05_Asp.NetCore\PartyApp\PartyApp\obj\Debug\netcoreapp2.0\PartyApp.AssemblyInfoInputs.cache
+F:\Asp.NetCore\05_Asp.NetCore\PartyApp\PartyApp\obj\Debug\netcoreapp2.0\PartyApp.AssemblyInfo.cs
+F:\Asp.NetCore\05_Asp.NetCore\PartyApp\PartyApp\obj\Debug\netcoreapp2.0\PartyApp.dll
+F:\Asp.NetCore\05_Asp.NetCore\PartyApp\PartyApp\obj\Debug\netcoreapp2.0\PartyApp.pdb

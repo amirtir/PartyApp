@@ -1,0 +1,32 @@
+﻿@model IEnumerable<Guest>
+@{
+    ViewData["Title"] = "List";
+}
+
+<h2>لیست مهمانان</h2>
+<table class="table table-bordered">
+    <tr>
+        <th>نام</th>
+        <th>نام خانوادگی</th>
+        <th>تلفن</th>
+        <th>میام / نمیام</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Name</td>
+            <td>@item.Family</td>
+            <td>@item.Phone</td>
+            <td>
+                @if (item.WillAttend != null && item.WillAttend == true)
+                {
+                    <span class="text-success">میام</span>
+                }
+                else
+                {
+                    <span class="text-danger">نمایم</span>
+                }
+            </td>
+        </tr>
+    }
+</table>
